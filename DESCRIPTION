@@ -1,0 +1,9 @@
+Package: Rquiccfor
+Type: Package
+Title: R package for the QUICCFOR project
+Version: 0.0.1
+Date: 2017-12-12
+Author: Matthew V. Talluto
+Maintainer: Matthew V. Talluto <matthew-talluto@univ-grenoble-alpes.fr>
+Description: More about what it does (maybe more than one line)
+License: GPL v3
